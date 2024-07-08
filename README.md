@@ -1,6 +1,6 @@
 # **Mobker - Independiente**
 
-Es una aplicación no oficial que permite a los hinchas del Club Atlético Independiente mantenerse informados y conectados con su equipo favorito. A través de una combinación de noticias, resultados y elementos interactivos, los usuarios pueden disfrutar de una experiencia completa y personalizada.
+Es una aplicación que permite a los hinchas del Club Atlético Independiente mantenerse informados y conectados con su equipo favorito. A través de una combinación de noticias, resultados y elementos interactivos, los usuarios pueden disfrutar de una experiencia completa y personalizada.
 
 ## Desarrollo
 - Lenguaje: Kotlin
@@ -13,7 +13,7 @@ Es una aplicación no oficial que permite a los hinchas del Club Atlético Indep
 - Juego de preguntas
 - Ranking
 - Logros
-- Personalizacion de perfil
+- Personalización de perfil
 
 
 
