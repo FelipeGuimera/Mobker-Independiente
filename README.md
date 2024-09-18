@@ -17,4 +17,8 @@ Es una aplicación que permite a los hinchas del Club Atlético Independiente ma
 
 
 
-![previsualizacion](https://github.com/FelipeGuimera/Mobker-Independiente/assets/91702841/f9b97f1d-99ce-4467-a97f-1ea933de8570)
+![1](https://github.com/user-attachments/assets/03df8fac-3e13-4e4a-84d3-e28eaf2d2f87)
+![2](https://github.com/user-attachments/assets/cbea2187-5dba-428f-bdda-73a479361275)
+![3](https://github.com/user-attachments/assets/f9494d21-2231-427f-9a2d-91702d40598c)
+![4](https://github.com/user-attachments/assets/1c82bf59-800a-47ee-b53f-6a10ca8556a3)
+![5](https://github.com/user-attachments/assets/14dc49c2-b907-4328-b14d-b594f7d5b37a)
